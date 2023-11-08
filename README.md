@@ -150,5 +150,15 @@ This project aims to replace all idlers on the gantry with the flanged bearing v
    <td><a href="https://www.aliexpress.us/item/3256801607716281.html">https://www.aliexpress.us/item/3256801607716281.html</a> <strong>(Select M3x8)</strong>
    </td>
   </tr>
+    <tr>
+   <td>12
+   </td>
+   <td>M3x0.5 Spacer/Washer
+   </td>
+   <td><a href="https://www.amazon.com/gp/product/B09BRDLF6N/">https://www.amazon.com/gp/product/B09BRDLF6N/</a>
+   </td>
+   <td><a href="https://www.aliexpress.us/item/3256802114850018.html">https://www.aliexpress.us/item/3256802114850018.html</a> <strong>(Select M3x6xThick + 0.5mm thick)</strong>
+   </td>
+  </tr>
 </table>
 
