@@ -65,7 +65,7 @@ This project aims to replace all idlers on the gantry with the flanged bearing v
    </td>
    <td>M3 Heat Set Inserts
    </td>
-   <td><a href="https://www.amazon.com/gp/product/B01N7CJMVL/">https://www.amazon.com/gp/product/B01N7CJMVL/</a>
+   <td><a href="https://www.amazon.com/gp/product/B08K1BVGN9">https://www.amazon.com/gp/product/B08K1BVGN9</a>
    </td>
    <td><a href="https://www.aliexpress.us/item/3256804437259312.html">https://www.aliexpress.us/item/3256804437259312.html</a> <strong>(Select M3xOD4.6 +5.5mm length)</strong>
    </td>
