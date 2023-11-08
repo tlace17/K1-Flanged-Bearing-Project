@@ -11,7 +11,7 @@ D3D community based K1 and K1 Max Gantry Mod
 
 
 <p>
-The K1 Flanged Bearing Project was developed within the D3vil Design (D3D) community as an effort to further advance the precision and speed of the K1 and K1 Max 3D printers from Creality. Inspired by the work of Derrick Darrell and Omran Al Sayed from the D3D Dev team and their early gantry improvements to the stock setup of the K1 and K1 Max.
+The K1 Flanged Bearing Project was developed within the <a href="https://github.com/D3vil-Design">D3vil Design (D3D)</a> community as an effort to further advance the precision and speed of the K1 and K1 Max 3D printers from Creality. Inspired by the work of Derrick Darrell and Omran Al Sayed from the D3D Dev team and their early gantry improvements to the stock setup of the K1 and K1 Max.
 <p>
 This project aims to replace all idlers on the gantry with the flanged bearing variety commonly seen on Voron Design printers over the last 5 years. These provide improved belt alignment and quieter operation at faster speeds. These bearings alongside some changes to the gantry idler locations provide a proper belt path for standard corexy operation.
 <p>
