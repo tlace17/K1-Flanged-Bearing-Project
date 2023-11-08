@@ -7,7 +7,7 @@ D3D community based K1 and K1 Max Gantry Mod
 
 
 
-<img src="https://github.com/tlace17/K1-Flanged-Bearing-Project/assets/55593962/1d3fc986-cddd-43e9-8f43-c03784a66536" width="90%" height="90%">
+<img src="https://github.com/tlace17/K1-Flanged-Bearing-Project/assets/55593962/1d3fc986-cddd-43e9-8f43-c03784a66536" width="80%" height="80%">
 
 
 <p>
