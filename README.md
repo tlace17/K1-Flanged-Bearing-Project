@@ -19,17 +19,17 @@ This project aims to replace all idlers on the gantry with the flanged bearing v
 
 <h1>Print Settings:</h1>
 <p>
-**Material:** ABS or better
+<strong>Material:</strong> ABS or better
 <p>
-Infill: Gyroid 20% or more
+<strong>Infill:</strong> Gyroid 20% or more
 <p>
-Layer Height: 0.2mm maximum, 0.12mm preferred
+<strong>Layer Height:</strong> 0.2mm maximum, 0.12mm preferred
 <p>
-Wall Loops: 2 minimum, 3-4 preferred
+<strong>Wall Loops:</strong> 2 minimum, 3-4 preferred
 <p>
-Top and Bottom Layers: 4 minimum, 5 preferred
+<strong>Top and Bottom Layers:</strong> 4 minimum, 5 preferred
 <p>
-Supports: Needed (Normal is better than tree for most parts, be careful removing supports)
+<strong>Supports:</strong> Needed (Normal is better than tree for most parts, be careful removing supports)
 <p>
 <h1>Install Manuals:</h1>
 
