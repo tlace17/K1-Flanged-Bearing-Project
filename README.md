@@ -16,6 +16,21 @@ The K1 Flanged Bearing Project was developed within the <a href="https://github.
 This project aims to replace all idlers on the gantry with the flanged bearing variety commonly seen on Voron Design printers over the last 5 years. These provide improved belt alignment and quieter operation at faster speeds. These bearings alongside some changes to the gantry idler locations provide a proper belt path for standard corexy operation.
 <p>
 <strong>Included in this document are installation manuals for all 3 types of components within the gantry upgrades and a Bill of Materials for needed parts.</strong>
+
+<h1>Print Settings:</h1>
+<p>
+**Material:** ABS or better
+<p>
+Infill: Gyroid 20% or more
+<p>
+Layer Height: 0.2mm maximum, 0.12mm preferred
+<p>
+Wall Loops: 2 minimum, 3-4 preferred
+<p>
+Top and Bottom Layers: 4 minimum, 5 preferred
+<p>
+Supports: Needed (Normal is better than tree for most parts, be careful removing supports)
+<p>
 <h1>Install Manuals:</h1>
 
 
