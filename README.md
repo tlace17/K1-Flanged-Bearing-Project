@@ -43,7 +43,7 @@ This project aims to replace all idlers on the gantry with the flanged bearing v
   <tr>
    <td>2
    </td>
-   <td>M3x20 or M3x25 SHCS
+   <td>M3x20 and/or M3x25 SHCS
    </td>
    <td><a href="https://www.amazon.com/iExcell-Stainless-Metric-Socket-Washers/dp/B0812TYT5L/">https://www.amazon.com/iExcell-Stainless-Metric-Socket-Washers/dp/B0812TYT5L/</a>
    </td>
